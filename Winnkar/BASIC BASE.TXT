@@ -1,0 +1,65 @@
+===========================================================================
+Advanced engine needed  : Boom
+Primary purpose         : Single play
+===========================================================================
+Title                   : Basic Base
+Filename                : BASIC BASE.WAD
+Release date            : 7 December 2023
+Author                  : Winnkar
+Email Address           : sinkarroma@gmail.com
+Misc. Author Info       : 14 years old kid. Make WAD's and music
+
+Description             : Well, I'm a Winnkar!
+
+Additional Credits to   : MIDI BY WINNKAR. INTER AND MENU SPRITES BY WINNKAR.
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom
+Map #                   : E1M1
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : Designed for
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 10 Hours
+Editor(s) used          : GZDoom Builder, FL Studio 20, GIMP, SLADE3
+Known Bugs              : Bugs? Interesting...
+May Not Run With        : HDoom, brutal doom. Why? I don't like this mods!
+Tested With             : ZDoom, GZDoom, dsda-doom
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+FTP sites: MediaFire

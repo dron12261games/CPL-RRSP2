@@ -1,0 +1,90 @@
+===========================================================================
+Advanced engine needed  : MBF21 Compatible
+Primary purpose         : Single play
+===========================================================================
+Title                   : Oops! You have nukage allergy
+Filename                : NUKAGEALLERGY.WAD
+Release date            : 10 December 2023
+Author                  : StorkGreen
+Email Address           : -
+Other Files By Author   : List here:
+                          https://www.doomworld.com/profile/33018-sg/
+                          ?tab=field_core_pfield_1
+Misc. Author Info       : Mother who hold herself in own womb
+
+Description             : Map for Random Russian Mapping Session.
+                          Nukage, metal, fast gameplay
+                          
+                          # WEAPONS #
+                          1. Pistol is now 100% accurate and shoots faster
+                          2. Chaingun is twice as fast than vanilla one
+                          3. Max amount of bullets was expanded to 400/800,
+                          and shells to 60/120
+                          
+                          # MONSTERS #
+                          1. All hitscaners can be stunned with 100% chance
+                          2. All hitscaners now have a long window before
+                          attacking
+                          3. All hitscaners got more movement speed and have
+                          a bit more hp
+                          4. Zombieman shoots 3 times in a row
+                          5. Cacodemon, Hell Knight and Baron of Hell now
+                          have proper blood color, Lost Soul don't have any
+                          6. Baron shoots 3 projectiles in a triangle-like
+                          form
+                          7. Lost Soul hp have been reduced by half
+                          
+                          # EXTRA #
+                          -Most of the boom translucent effects on items and
+                          projectiles where removed
+
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP01
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 2 hours
+Editor(s) used          : UDB, SLADE 3
+May Not Run With        : Engines that do not support MBF21, UMAPINFO,
+                          DEHEXTRA
+Tested With             : DSDA 0.27.2
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors

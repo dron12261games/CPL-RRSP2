@@ -1,0 +1,69 @@
+===========================================================================
+Advanced engine needed  : Limit-Removing E1M1, Boom E1M2
+Primary purpose         : Single play/Co-op/Deathmatch
+===========================================================================
+Title                   : Metal Trap and Nuclear Search
+Filename                : METAL TRAP & NUCLEAR SEARCH.WAD
+Release date            : 6 November 2023
+Author                  : Winnkar
+Email Address           : sinkarroma@gmail.com
+Other Files By Author   : -
+Misc. Author Info       : 14 years old kid. Creating WADs and Music
+
+Description             : Mapping - my HOBBY
+
+Additional Credits to   : -MIDI- INTER, TITLE, E1M2 BY WINNKAR. E1M1 BY Bobby
+                          Prince- They're Going to Get You
+===========================================================================
+* What is included *
+
+New levels              : 2 Levels
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : -
+Other files required    : -
+
+
+* Play Information *
+
+Game                    : Doom
+Map #                   : E1M1-E1M2
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : Designed for
+Other game styles       : -
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time E1M1         : 10 Hours
+Build Time E1M2         : 2  Hours
+Editor(s) used          : GZDoom Builder, FL Studio 20, GIMP, SLADE3
+Known Bugs              : If you play with dsda, and use Boom, yellow card don't teleport. Use Boom's Vanilla
+May Not Run With        : Do not run with "HDOOM"
+Tested With             : GZDoom, ZDoom, dsda-doom, PrBoom+
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: -
+FTP sites: MediaFire

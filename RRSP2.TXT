@@ -1,0 +1,103 @@
+===========================================================================
+Advanced engine needed  : Various (from Limit-Removing to GZDoom UDMF)
+Primary purpose         : Single play
+===========================================================================
+Title                   : Russian Random Speedmap Pack #1
+Filename                : RRSP#2
+Release date            : 12 December 2023
+Author                  : Russian Doom Community (list in desc)
+Email Address           : andrejskocko@gmail.com
+
+Description             : Speedmap event hosted by the local Ru community. 
+                          
+                          The conditions of the event were as free and simple
+                          as possible - the only limitation that participants
+                          had was time. The idea of the event was that
+                          someone just started to do something and most
+                          importantly immediately bring it to completion
+                          (partially analogous to NaNoWADMo).
+                          
+                          A quick summary of the rules:
+                          - The participant chooses his own time for which he
+                            should make a map, but no more than 10 hours.
+                          - The participant is free to make a map in any
+                            format, for any target ports and for any game on
+                            the Doom engine.
+                          - The map is the priority, not the timer!
+                            Generating ideas, selecting music, textures, and
+                            other resources are not counted in the timer. Only
+                            the mapping process itself counts. Similarly, fixes
+                            and balance adjustments are allowed after the map
+                            has been made (but only small ones).
+                          - Authors are free to do whatever they want with
+                            their maps afterwards, to refine them, to remake
+                            them, to release them separately. Their work is not
+                            rigidly tied to the project, in this package stored
+                            just speedmaps, which later in the hands of their
+                            authors may well serve as a foundation for
+                            something more ambitious.
+                          
+                          ------------------------------------------------------
+                          
+                          Project lead - DRON12261
+                          
+                          List of maps and authors:
+                          
+                          DeathWish:
+                          - Late-Night Shopping [10 hours, Boom, TNT]
+                          
+                          Doom Wads:
+                          - Grind Day [4 hours, Boom, Doom 2]
+                          - Wtf Day [2 hours, Boom, Doom 2]
+                          - Emo Day [5 hours, Boom, Doom 2]
+                          - Suka Blyat Day [5.5 hours, Boom, Doom 2]
+                          
+                          DRON12261:
+                          - Speed of STARTAN [5 hours, Boom, Doom 2]
+                          - Dead 2 GO [5 hours, Limit-Removing, Doom 2]
+                          
+                          George Nash:
+                          - Forsaken Fortress [6 hours, UDMF, Hexen]
+                          
+                          GranitMaster:
+                          - A Rocket Jump! [2 hours, UDMF, Doom 2]
+                          - CorvusBomber [3.5 hours, UDMF, Heretic]
+                          
+                          Nikolanchik:
+                          - Fight in the Mountains [1.5 hours, Boom, Doom2]
+                          
+                          Shiroi Akuma (a.k.a Slavius):
+                          - Summersky [4 hours, Boom, Doom 2]
+                          - Sanctum City [4 hours, Boom, Doom 2]
+                          - Violent Dream [10 hours, Boom, Doom 2]
+                          
+                          StorkGreen:
+                          - I have no thoughts but I must map [1,5 hour,
+                            MBF21, Doom 2]
+                          - Hot tsundere ruins [1,5 hour, MBF21, Doom 2]
+                          - Intense cyberbullying is my passion [2,5 hours,
+                            MBF21, Doom 2]
+                          - Oops! You have nukage allergy [2 hours, MBF21,
+                            Doom 2]
+                          
+                          Track Federal:
+                          - Brain Washing Liquid [4,5 hours, Boom, Doom 2]
+                          
+                          Winnkar:
+                          - Metal Trap [10 hours, Limit-Removing, Doom]
+                          - Nuclear Search [2 hours, Boom, Doom]
+                          - Basic Base [10 hours, Boom, Doom]
+                          - Hell Nightmare [10 hours, Boom, Doom 2]
+                          
+                          ------------------------------------------------------
+
+===========================================================================
+* What is included / Play Information / Construction *
+
+New levels              : 23
+Game                    : Doom, Doom 2, TNT, Heretic, Hexen
+Base                    : New from scratch
+Build Time              : from 1 to 10 hours
+
+
+For more information on the map, see the corresponding txt files for each wad.

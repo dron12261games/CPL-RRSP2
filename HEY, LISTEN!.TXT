@@ -1,0 +1,3 @@
+Please note that each wad is designed for its own source-port and sometimes even for its own game. Each wad has its own txt file, which gives an idea of what the map is. There are maps that are better visualized on classic ports like prBoom+, DSDA, Doom Retro, etc. instead of GZDoom. 
+
+Enjoy the game!!!

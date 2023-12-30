@@ -1,0 +1,66 @@
+===========================================================================
+Advanced engine needed  : Boom Compatible
+Primary purpose         : Single play
+===========================================================================
+Title                   : Late-Night Shopping 
+Filename                : LATE-NIGHT SHOPPING.WAD
+Release date            : 11 December 2023
+Author                  : Deathwish
+Email Address           : -
+Description             : Map for Random Russian Mapping Session.
+                          It requires TNT.WAD.
+                          This map is based on urban design and good
+                          texturing, but fights are simple. 
+                          STORY: You go shopping after work in the 
+                          evening, but something doesn't go according to 
+                          plan...
+
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : TNT
+Map #                   : 1
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 10 hours
+Editor(s) used          : Ultimate Doom Builder, Slade
+May Not Run With        : I don't know. Probably very old Doom ports
+Tested With             : Doom Retro 4.9.1, DSDA-Doom 0.27.4
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
