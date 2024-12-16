@@ -4,7 +4,7 @@ A community project organized by me for russian doom community
 
 # STATUS: ✅RELEASED
 
-### Download - [Latest Release](https://github.com/dron12261games/CPL-RRSP1/releases/download/v1/RRSP1.zip)
+### Download - [Latest Release](https://github.com/dron12261games/CPL-RRSP2/releases/download/v1/RRSP2.zip)
 
 # Links (all information inside)
 - [Doomworld](https://www.doomworld.com/forum/topic/142098-russian-random-speedmap-pack-2-23-new-interesting-maps-happy-birthday-doom/)
